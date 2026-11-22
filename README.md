@@ -45,7 +45,7 @@ I build football web apps, Arabic educational games and university tools with Re
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/ali672006ali-prog/-">Children's IQ Test</a></h3>
+<h3><a href="https://github.com/ali672006ali-prog/childrens-iq-test">Children's IQ Test</a></h3>
 <p>Clinical platform for administering and scoring a children's IQ test, with AI-assisted bilingual diagnostic reports. Menoufia University.</p>
 <p><code>React</code> <code>TypeScript</code> <code>Firebase</code> <code>Gemini API</code></p>
 </td>
