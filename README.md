@@ -25,7 +25,7 @@ I'm Ali. I build for the web: **football experiences** and **educational games**
 | ⚽ | **[Karpatsof Sport](https://github.com/ali672006ali-prog/karpatsof-sport)** | A football web app built with React, TypeScript, and Vite | React · TypeScript · Vite |
 | ⚽ | **[Football 2](https://github.com/ali672006ali-prog/football2)** | A football app with a React frontend and an Express server | React · Express |
 | 🧮 | **[AbleMath](https://github.com/ali672006ali-prog/AbleMath)** | An interactive Arabic math game for 4th-grade special education students: the number 100 and counting by tens | React 19 · Tailwind CSS · Motion |
-| 📈 | **[Football](https://github.com/ali672006ali-prog/football)** | An early football project, kept as part of the journey | — |
+| 📈 | **[Football](https://github.com/ali672006ali-prog/football)** | An early football project, kept as part of the journey | · |
 
 ---
 
