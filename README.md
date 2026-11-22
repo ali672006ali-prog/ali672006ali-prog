@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/9419f05f-dc60-48ff-a001-cf314d205b21" width="100%" alt="Ali Abbas. Web development: football web apps and Arabic educational games. A drawn code editor types a React component and starts a development server." />
+<img src="assets/header.gif" width="100%" alt="Ali Abbas. Web development: football web apps and Arabic educational games. A drawn code editor types a React component and starts a development server." />
 
 <br />
 
