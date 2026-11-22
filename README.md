@@ -2,7 +2,7 @@
 
 <br />
 
-I build football web apps and Arabic educational games with React and TypeScript.
+I build football web apps, Arabic educational games and university tools with React and TypeScript.
 
 ## Projects
 
@@ -31,8 +31,28 @@ I build football web apps and Arabic educational games with React and TypeScript
 <p><code>Early project</code></p>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/ali672006ali-prog/UMind---Smart-University-Assistant-">UniMind - Smart University Assistant</a></h3>
+<p>Productivity suite for university students: an AI study partner, planner, Pomodoro timer, tasks and GPA tracker.</p>
+<p><code>React</code> <code>TypeScript</code> <code>Gemini API</code></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/ali672006ali-prog/ADHD-Screening-Test">ADHD Screening Test</a></h3>
+<p>Digital ADHD self-assessment scale with instant scoring and bilingual diagnostic reports. Built for Menoufia University.</p>
+<p><code>React</code> <code>TypeScript</code> <code>Gemini API</code></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/ali672006ali-prog/-">Children's IQ Test</a></h3>
+<p>Clinical platform for administering and scoring a children's IQ test, with AI-assisted bilingual diagnostic reports. Menoufia University.</p>
+<p><code>React</code> <code>TypeScript</code> <code>Firebase</code> <code>Gemini API</code></p>
+</td>
+<td width="50%" valign="top"></td>
+</tr>
 </table>
 
 ## Stack
 
-<code>React</code> &nbsp; <code>TypeScript</code> &nbsp; <code>Vite</code> &nbsp; <code>Tailwind CSS</code> &nbsp; <code>Express</code> &nbsp; <code>Motion</code>
+<code>React</code> &nbsp; <code>TypeScript</code> &nbsp; <code>Vite</code> &nbsp; <code>Tailwind CSS</code> &nbsp; <code>Express</code> &nbsp; <code>Motion</code> &nbsp; <code>Firebase</code> &nbsp; <code>Gemini API</code>
